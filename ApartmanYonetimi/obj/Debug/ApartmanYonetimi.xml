@@ -1,0 +1,996 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ApartmanYonetimi
+</name>
+</assembly>
+<members>
+<member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.binalarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.dairelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.kasaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.sitelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.yoneticilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.binalarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.dairelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.kasaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.sitelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.yoneticilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.binalarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.dairelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.kasaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.sitelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12.yoneticilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.binalarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.dairelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.kasaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.sitelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.yoneticilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.TableAdapterManager.UpdateUpdatedRows(ApartmanYonetimi.apartmanyonetimiDataSet12,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.TableAdapterManager.UpdateInsertedRows(ApartmanYonetimi.apartmanyonetimiDataSet12,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.TableAdapterManager.UpdateDeletedRows(ApartmanYonetimi.apartmanyonetimiDataSet12,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.TableAdapterManager.UpdateAll(ApartmanYonetimi.apartmanyonetimiDataSet12)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet12TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:ApartmanYonetimi.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ApartmanYonetimi.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ApartmanYonetimi.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ApartmanYonetimi.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.arsivDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.binalarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.dairelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.kasaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.kisilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.sitelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.yetkilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.yoneticilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.arsivRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.binalarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.dairelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.kasaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.kisilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.sitelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.yetkilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.yoneticilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.arsivRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.binalarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.dairelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.kasaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.kisilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.sitelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.yetkilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2.yoneticilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.arsivTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.binalarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.dairelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.kasaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.kisilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.sitelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.yetkilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.yoneticilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(ApartmanYonetimi.apartmanyonetimiDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(ApartmanYonetimi.apartmanyonetimiDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(ApartmanYonetimi.apartmanyonetimiDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.TableAdapterManager.UpdateAll(ApartmanYonetimi.apartmanyonetimiDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.arsivDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.binalarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.dairelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.eski_dairelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.eski_personelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.eski_yoneticilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.kasaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.kisilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.personelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.sitelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.yetkilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.yoneticilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.borclarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.makbuzDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.adresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.arsivRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.binalarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.dairelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.eski_dairelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.eski_personelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.eski_yoneticilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.kasaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.kisilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.personelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.sitelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.yetkilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.yoneticilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.borclarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.makbuzRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.adresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.arsivRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.binalarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.dairelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.eski_dairelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.eski_personelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.eski_yoneticilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.kasaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.kisilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.personelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.sitelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.yetkilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.yoneticilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.borclarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.makbuzRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5.adresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.arsivTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.binalarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.dairelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.eski_dairelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.eski_personelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.eski_yoneticilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.kasaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.kisilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.personelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.sitelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.yetkilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.yoneticilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.borclarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.makbuzTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.adresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(ApartmanYonetimi.apartmanyonetimiDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(ApartmanYonetimi.apartmanyonetimiDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(ApartmanYonetimi.apartmanyonetimiDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.TableAdapterManager.UpdateAll(ApartmanYonetimi.apartmanyonetimiDataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.binalarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.dairelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.kasaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.kisilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.sitelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.yoneticilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.binalarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.dairelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.kasaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.kisilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.sitelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.yoneticilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.binalarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.dairelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.kasaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.kisilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.sitelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1.yoneticilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.binalarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.dairelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.kasaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.kisilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.sitelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.yoneticilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(ApartmanYonetimi.apartmanyonetimiDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(ApartmanYonetimi.apartmanyonetimiDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(ApartmanYonetimi.apartmanyonetimiDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.TableAdapterManager.UpdateAll(ApartmanYonetimi.apartmanyonetimiDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.binalarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.dairelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.kasaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.kisilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.sitelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.yetkilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.yoneticilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.binalarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.dairelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.kasaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.kisilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.sitelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.yetkilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.yoneticilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.binalarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.dairelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.kasaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.kisilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.sitelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.yetkilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4.yoneticilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.binalarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.dairelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.kasaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.kisilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.sitelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.yetkilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.yoneticilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(ApartmanYonetimi.apartmanyonetimiDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(ApartmanYonetimi.apartmanyonetimiDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(ApartmanYonetimi.apartmanyonetimiDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.TableAdapterManager.UpdateAll(ApartmanYonetimi.apartmanyonetimiDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.binalarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.dairelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.kasaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.kisilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.sitelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.yoneticilerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.binalarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.dairelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.kasaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.kisilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.sitelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.yoneticilerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.binalarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.dairelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.kasaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.kisilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.sitelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet.yoneticilerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.binalarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.dairelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.kasaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.kisilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.sitelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.yoneticilerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ApartmanYonetimi.apartmanyonetimiDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ApartmanYonetimi.apartmanyonetimiDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ApartmanYonetimi.apartmanyonetimiDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.TableAdapterManager.UpdateAll(ApartmanYonetimi.apartmanyonetimiDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ApartmanYonetimi.apartmanyonetimiDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

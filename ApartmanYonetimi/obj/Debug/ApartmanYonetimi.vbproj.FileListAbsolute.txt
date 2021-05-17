@@ -1,0 +1,399 @@
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.acilis.resources
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SiteEkle.resources
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.dll
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+c:\users\hakan\documents\visual studio 2012\Projects\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.dll
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SiteEkle.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.Designer.vb
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsc
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsd
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xss
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.Designer.vb
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsc
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsd
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xss
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SiteEkle.resources
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\ASD\Apartman-Yonetimi-Otomasyonu-master (10)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.Designer.vb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsc
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsd
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xss
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SiteEkle.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.Designer.vb
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsc
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsd
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xss
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (11)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.guvenlik.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.Designer.vb
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsc
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsd
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xss
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.dll
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SiteEkle.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.Designer.vb
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsc
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xsd
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\apartmanyonetimiDataSet.xss
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\hakan\Desktop\ASDLER\Apartman-Yonetimi-Otomasyonu-master (12)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\hakan\Desktop\Apartman-Yonetimi-Otomasyonu-master (14)\Apartman-Yonetimi-Otomasyonu-master\ApartmanYonetimi2\ApartmanYonetimi2\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.dll
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SifremiUnuttum.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.dll
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SifremiUnuttum.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SifremiUnuttum.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.YoneticiGuncelle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.YoneticiGuncelle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.YoneticiGuncelle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGuncelle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\bin\Debug\Guna.UI.dll
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGuncelle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.YoneticiGuncelle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SifremiUnuttum.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi0\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.dll
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGuncelle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.YoneticiGuncelle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SifremiUnuttum.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\hakan\Desktop\FT\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGuncelle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGuncelle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGuncelle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.YoneticiGuncelle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SifremiUnuttum.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.personelekle.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGuncelle.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.personelekle.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.YoneticiGuncelle.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SifremiUnuttum.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
+C:\Users\Enes AYDIN\Desktop\Yeni klasör (2)\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.personelguncelle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.personelguncelle.resources
+C:\Users\Enes AYDIN\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Gelir.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Gelir.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.personelekle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.personelguncelle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.BorcEkle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGoruntule.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Borclandir_islem.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.OdemeYap.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.BorcEkle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Borclandir_islem.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGoruntule.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Gelir.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.OdemeYap.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.personelekle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.personelguncelle.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Makbuz.resources
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbprojResolveAssemblyReference.cache
+C:\Users\hakan\Desktop\LAST\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Makbuz.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe.config
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.exe
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.xml
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.pdb
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.pdb
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.xml
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\bin\Debug\Guna.UI.pdb
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Acilis.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.AnaSayfa.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.BorcEkle.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Borclandir_islem.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireEkle.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGoruntule.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.DaireGuncelle.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Gelir.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.gider.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Makbuz.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.OdemeYap.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.personelekle.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.personelguncelle.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.YoneticiGuncelle.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.KisiEkle.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.Resources.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.SifremiUnuttum.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yonetici.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.yoneticiekle.resources
+C:\Users\Hakan ÖCAL\Desktop\ApartmanYonetimi\ApartmanYonetimi\obj\Debug\ApartmanYonetimi.vbproj.GenerateResource.Cache
