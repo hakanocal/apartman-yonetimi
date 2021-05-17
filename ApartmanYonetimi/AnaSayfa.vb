@@ -137,6 +137,8 @@ Public Class AnaSayfa
             End If
             panelgizle()
             Panel2_ANASAYFA.Show()
+            ButonRenkSifirla()
+            GunaButton1.BaseColor = Color.FromArgb(0, 50, 100)
 
             'YETKİ DURUMUNA GÖRE KISITLAMA
             If yetki <> "TAM YETKI" Then
@@ -164,23 +166,37 @@ Public Class AnaSayfa
         Panel7_YONETİCİLER.Hide()
         Panel8_ARŞİV.Hide()
     End Sub
+    Private Sub ButonRenkSifirla()
+        GunaButton1.BaseColor = Color.FromArgb(20, 120, 240)
+        GunaButton2.BaseColor = Color.FromArgb(20, 120, 240)
+        GunaButton3.BaseColor = Color.FromArgb(20, 120, 240)
+        GunaButton4.BaseColor = Color.FromArgb(20, 120, 240)
+        GunaButton5.BaseColor = Color.FromArgb(20, 120, 240)
+        GunaButton6.BaseColor = Color.FromArgb(20, 120, 240)
+        GunaButton7.BaseColor = Color.FromArgb(20, 120, 240)
+    End Sub
 
     Private Sub GunaButton1_Click(sender As Object, e As EventArgs) Handles GunaButton1.Click
         Try
             Me.Text = GunaButton1.Text + " • APARTMAN YÖNETİMİ"
             panelgizle()
             Panel2_ANASAYFA.Show()
+            ButonRenkSifirla()
+            GunaButton1.BaseColor = Color.FromArgb(0, 50, 100)
         Catch ex As Exception
             MsgBox("Bir hatayla karşılaşıldı. (Try-Catch)", MsgBoxStyle.Critical, "Uyarı")
         End Try
     End Sub
 
     Private Sub GunaButton2_Click(sender As Object, e As EventArgs) Handles GunaButton2.Click
+        
         'Kasa gelir gider toplama
 
         'Try
         panelgizle()
         Panel3_KASA.Show()
+        ButonRenkSifirla()
+        GunaButton2.BaseColor = Color.FromArgb(0, 50, 100)
         Dim gkomut1 As New OleDbCommand("SELECT Sum(gider) FROM kasa", baglanti)
         Dim veriokuyucu As OleDbDataReader
         baglanti.Open()
@@ -231,6 +247,8 @@ Public Class AnaSayfa
             Me.Text = GunaButton3.Text + " • APARTMAN YÖNETİMİ"
             panelgizle()
             Panel4_BINALAR_DAIRELER.Show()
+            ButonRenkSifirla()
+            GunaButton3.BaseColor = Color.FromArgb(0, 50, 100)
         Catch ex As Exception
             MsgBox("Bir hatayla karşılaşıldı. (Try-Catch)", MsgBoxStyle.Critical, "Uyarı")
         End Try
@@ -241,6 +259,8 @@ Public Class AnaSayfa
             Me.Text = GunaButton4.Text + " • APARTMAN YÖNETİMİ"
             panelgizle()
             Panel5_BORCLANDIR.Show()
+            ButonRenkSifirla()
+            GunaButton4.BaseColor = Color.FromArgb(0, 50, 100)
         Catch ex As Exception
             MsgBox("Bir hatayla karşılaşıldı. (Try-Catch)", MsgBoxStyle.Critical, "Uyarı")
         End Try
@@ -251,6 +271,8 @@ Public Class AnaSayfa
             Me.Text = GunaButton5.Text + " • APARTMAN YÖNETİMİ"
             panelgizle()
             Panel6_PERSONEL.Show()
+            ButonRenkSifirla()
+            GunaButton5.BaseColor = Color.FromArgb(0, 50, 100)
         Catch ex As Exception
             MsgBox("Bir hatayla karşılaşıldı. (Try-Catch)", MsgBoxStyle.Critical, "Uyarı")
         End Try
@@ -261,6 +283,8 @@ Public Class AnaSayfa
             Me.Text = GunaButton6.Text + " • APARTMAN YÖNETİMİ"
             panelgizle()
             Panel7_YONETİCİLER.Show()
+            ButonRenkSifirla()
+            GunaButton6.BaseColor = Color.FromArgb(0, 50, 100)
         Catch ex As Exception
             MsgBox("Bir hatayla karşılaşıldı. (Try-Catch)", MsgBoxStyle.Critical, "Uyarı")
         End Try
@@ -723,6 +747,8 @@ Public Class AnaSayfa
             Me.Text = GunaButton7.Text + " • APARTMAN YÖNETİMİ"
             panelgizle()
             Panel8_ARŞİV.Show()
+            ButonRenkSifirla()
+            GunaButton7.BaseColor = Color.FromArgb(0, 50, 100)
             'TODO: This line of code loads data into the 'ApartmanyonetimiDataSet54.eski_personel' table. You can move, or remove it, as needed.
             Me.Eski_personelTableAdapter.Fill(Me.ApartmanyonetimiDataSet54.eski_personel)
             'TODO: This line of code loads data into the 'ApartmanyonetimiDataSet53.eski_personel' table. You can move, or remove it, as needed.
@@ -900,7 +926,7 @@ Public Class AnaSayfa
 
         'Add a CheckBox Column to the DataGridView at the first position.
         Dim checkBoxColumn As DataGridViewCheckBoxColumn = New DataGridViewCheckBoxColumn()
-        checkBoxColumn.HeaderText = "       SEÇ"
+        checkBoxColumn.HeaderText = "       TÜM. SEÇ"
         checkBoxColumn.Width = 30
         checkBoxColumn.Name = "checkBoxColumn"
         BunifuCustomDataGrid11.Columns.Insert(0, checkBoxColumn)
@@ -958,6 +984,7 @@ Public Class AnaSayfa
     Private Sub İşlemYapToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles İşlemYapToolStripMenuItem.Click
         Borclandir_islem.Show()
     End Sub
+
 
 
 End Class

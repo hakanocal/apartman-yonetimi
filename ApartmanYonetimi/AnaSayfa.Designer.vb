@@ -326,7 +326,7 @@ Partial Class AnaSayfa
         Me.GunaButton7.ImageSize = New System.Drawing.Size(20, 20)
         Me.GunaButton7.Location = New System.Drawing.Point(13, 255)
         Me.GunaButton7.Name = "GunaButton7"
-        Me.GunaButton7.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(198, Byte), Integer))
+        Me.GunaButton7.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(85, Byte), Integer), CType(CType(200, Byte), Integer))
         Me.GunaButton7.OnHoverBorderColor = System.Drawing.Color.Black
         Me.GunaButton7.OnHoverForeColor = System.Drawing.Color.White
         Me.GunaButton7.OnHoverImage = Nothing
@@ -341,7 +341,7 @@ Partial Class AnaSayfa
         Me.GunaButton3.AnimationHoverSpeed = 0.07!
         Me.GunaButton3.AnimationSpeed = 0.03!
         Me.GunaButton3.BackColor = System.Drawing.Color.Transparent
-        Me.GunaButton3.BaseColor = System.Drawing.Color.FromArgb(CType(CType(21, Byte), Integer), CType(CType(117, Byte), Integer), CType(CType(241, Byte), Integer))
+        Me.GunaButton3.BaseColor = System.Drawing.Color.FromArgb(CType(CType(20, Byte), Integer), CType(CType(120, Byte), Integer), CType(CType(240, Byte), Integer))
         Me.GunaButton3.BorderColor = System.Drawing.Color.Black
         Me.GunaButton3.Cursor = System.Windows.Forms.Cursors.Hand
         Me.GunaButton3.DialogResult = System.Windows.Forms.DialogResult.None
@@ -352,7 +352,7 @@ Partial Class AnaSayfa
         Me.GunaButton3.ImageSize = New System.Drawing.Size(20, 20)
         Me.GunaButton3.Location = New System.Drawing.Point(13, 111)
         Me.GunaButton3.Name = "GunaButton3"
-        Me.GunaButton3.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(198, Byte), Integer))
+        Me.GunaButton3.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(85, Byte), Integer), CType(CType(200, Byte), Integer))
         Me.GunaButton3.OnHoverBorderColor = System.Drawing.Color.Black
         Me.GunaButton3.OnHoverForeColor = System.Drawing.Color.White
         Me.GunaButton3.OnHoverImage = Nothing
@@ -407,7 +407,7 @@ Partial Class AnaSayfa
         Me.GunaButton5.ImageSize = New System.Drawing.Size(20, 20)
         Me.GunaButton5.Location = New System.Drawing.Point(13, 207)
         Me.GunaButton5.Name = "GunaButton5"
-        Me.GunaButton5.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(198, Byte), Integer))
+        Me.GunaButton5.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(85, Byte), Integer), CType(CType(200, Byte), Integer))
         Me.GunaButton5.OnHoverBorderColor = System.Drawing.Color.Black
         Me.GunaButton5.OnHoverForeColor = System.Drawing.Color.White
         Me.GunaButton5.OnHoverImage = Nothing
@@ -433,7 +433,7 @@ Partial Class AnaSayfa
         Me.GunaButton6.ImageSize = New System.Drawing.Size(20, 20)
         Me.GunaButton6.Location = New System.Drawing.Point(13, 303)
         Me.GunaButton6.Name = "GunaButton6"
-        Me.GunaButton6.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(198, Byte), Integer))
+        Me.GunaButton6.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(85, Byte), Integer), CType(CType(200, Byte), Integer))
         Me.GunaButton6.OnHoverBorderColor = System.Drawing.Color.Black
         Me.GunaButton6.OnHoverForeColor = System.Drawing.Color.White
         Me.GunaButton6.OnHoverImage = Nothing
@@ -448,7 +448,7 @@ Partial Class AnaSayfa
         Me.GunaButton4.AnimationHoverSpeed = 0.07!
         Me.GunaButton4.AnimationSpeed = 0.03!
         Me.GunaButton4.BackColor = System.Drawing.Color.Transparent
-        Me.GunaButton4.BaseColor = System.Drawing.Color.FromArgb(CType(CType(21, Byte), Integer), CType(CType(117, Byte), Integer), CType(CType(241, Byte), Integer))
+        Me.GunaButton4.BaseColor = System.Drawing.Color.FromArgb(CType(CType(20, Byte), Integer), CType(CType(120, Byte), Integer), CType(CType(240, Byte), Integer))
         Me.GunaButton4.BorderColor = System.Drawing.Color.Black
         Me.GunaButton4.Cursor = System.Windows.Forms.Cursors.Hand
         Me.GunaButton4.DialogResult = System.Windows.Forms.DialogResult.None
@@ -459,7 +459,7 @@ Partial Class AnaSayfa
         Me.GunaButton4.ImageSize = New System.Drawing.Size(20, 20)
         Me.GunaButton4.Location = New System.Drawing.Point(13, 159)
         Me.GunaButton4.Name = "GunaButton4"
-        Me.GunaButton4.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(198, Byte), Integer))
+        Me.GunaButton4.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(85, Byte), Integer), CType(CType(200, Byte), Integer))
         Me.GunaButton4.OnHoverBorderColor = System.Drawing.Color.Black
         Me.GunaButton4.OnHoverForeColor = System.Drawing.Color.White
         Me.GunaButton4.OnHoverImage = Nothing
@@ -474,7 +474,7 @@ Partial Class AnaSayfa
         Me.GunaButton2.AnimationHoverSpeed = 0.07!
         Me.GunaButton2.AnimationSpeed = 0.03!
         Me.GunaButton2.BackColor = System.Drawing.Color.Transparent
-        Me.GunaButton2.BaseColor = System.Drawing.Color.FromArgb(CType(CType(21, Byte), Integer), CType(CType(117, Byte), Integer), CType(CType(241, Byte), Integer))
+        Me.GunaButton2.BaseColor = System.Drawing.Color.FromArgb(CType(CType(20, Byte), Integer), CType(CType(120, Byte), Integer), CType(CType(240, Byte), Integer))
         Me.GunaButton2.BorderColor = System.Drawing.Color.Black
         Me.GunaButton2.Cursor = System.Windows.Forms.Cursors.Hand
         Me.GunaButton2.DialogResult = System.Windows.Forms.DialogResult.None
@@ -485,7 +485,7 @@ Partial Class AnaSayfa
         Me.GunaButton2.ImageSize = New System.Drawing.Size(20, 20)
         Me.GunaButton2.Location = New System.Drawing.Point(13, 63)
         Me.GunaButton2.Name = "GunaButton2"
-        Me.GunaButton2.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(198, Byte), Integer))
+        Me.GunaButton2.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(85, Byte), Integer), CType(CType(200, Byte), Integer))
         Me.GunaButton2.OnHoverBorderColor = System.Drawing.Color.Black
         Me.GunaButton2.OnHoverForeColor = System.Drawing.Color.White
         Me.GunaButton2.OnHoverImage = Nothing
@@ -500,7 +500,7 @@ Partial Class AnaSayfa
         Me.GunaButton1.AnimationHoverSpeed = 0.07!
         Me.GunaButton1.AnimationSpeed = 0.03!
         Me.GunaButton1.BackColor = System.Drawing.Color.Transparent
-        Me.GunaButton1.BaseColor = System.Drawing.Color.FromArgb(CType(CType(21, Byte), Integer), CType(CType(117, Byte), Integer), CType(CType(241, Byte), Integer))
+        Me.GunaButton1.BaseColor = System.Drawing.Color.FromArgb(CType(CType(20, Byte), Integer), CType(CType(120, Byte), Integer), CType(CType(240, Byte), Integer))
         Me.GunaButton1.BorderColor = System.Drawing.Color.Black
         Me.GunaButton1.Cursor = System.Windows.Forms.Cursors.Hand
         Me.GunaButton1.DialogResult = System.Windows.Forms.DialogResult.None
@@ -511,7 +511,7 @@ Partial Class AnaSayfa
         Me.GunaButton1.ImageSize = New System.Drawing.Size(20, 20)
         Me.GunaButton1.Location = New System.Drawing.Point(13, 15)
         Me.GunaButton1.Name = "GunaButton1"
-        Me.GunaButton1.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(86, Byte), Integer), CType(CType(198, Byte), Integer))
+        Me.GunaButton1.OnHoverBaseColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(85, Byte), Integer), CType(CType(200, Byte), Integer))
         Me.GunaButton1.OnHoverBorderColor = System.Drawing.Color.Black
         Me.GunaButton1.OnHoverForeColor = System.Drawing.Color.White
         Me.GunaButton1.OnHoverImage = Nothing
@@ -959,7 +959,7 @@ Partial Class AnaSayfa
         Me.GunaGroupBox3.LineColor = System.Drawing.Color.DarkGray
         Me.GunaGroupBox3.Location = New System.Drawing.Point(16, 136)
         Me.GunaGroupBox3.Name = "GunaGroupBox3"
-        Me.GunaGroupBox3.Size = New System.Drawing.Size(176, 222)
+        Me.GunaGroupBox3.Size = New System.Drawing.Size(176, 409)
         Me.GunaGroupBox3.TabIndex = 16
         Me.GunaGroupBox3.Text = "BİNALAR"
         Me.GunaGroupBox3.TextLocation = New System.Drawing.Point(10, 8)
@@ -1004,7 +1004,7 @@ Partial Class AnaSayfa
         Me.BunifuCustomDataGrid3.ReadOnly = True
         Me.BunifuCustomDataGrid3.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
         Me.BunifuCustomDataGrid3.RowHeadersVisible = False
-        Me.BunifuCustomDataGrid3.Size = New System.Drawing.Size(176, 197)
+        Me.BunifuCustomDataGrid3.Size = New System.Drawing.Size(176, 388)
         Me.BunifuCustomDataGrid3.TabIndex = 16
         '
         'BinaadiDataGridViewTextBoxColumn
@@ -1109,7 +1109,7 @@ Partial Class AnaSayfa
         Me.BunifuCustomDataGrid11.Name = "BunifuCustomDataGrid11"
         Me.BunifuCustomDataGrid11.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None
         Me.BunifuCustomDataGrid11.RowHeadersVisible = False
-        Me.BunifuCustomDataGrid11.Size = New System.Drawing.Size(667, 463)
+        Me.BunifuCustomDataGrid11.Size = New System.Drawing.Size(670, 463)
         Me.BunifuCustomDataGrid11.TabIndex = 20
         '
         'BinaadiDataGridViewTextBoxColumn3
@@ -2063,10 +2063,10 @@ Partial Class AnaSayfa
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(884, 561)
-        Me.Controls.Add(Me.Panel8_ARŞİV)
-        Me.Controls.Add(Me.Panel3_KASA)
         Me.Controls.Add(Me.Panel4_BINALAR_DAIRELER)
         Me.Controls.Add(Me.Panel5_BORCLANDIR)
+        Me.Controls.Add(Me.Panel8_ARŞİV)
+        Me.Controls.Add(Me.Panel3_KASA)
         Me.Controls.Add(Me.Panel6_PERSONEL)
         Me.Controls.Add(Me.Panel7_YONETİCİLER)
         Me.Controls.Add(Me.Panel2_ANASAYFA)
@@ -2074,7 +2074,6 @@ Partial Class AnaSayfa
         Me.Name = "AnaSayfa"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "ANA SAYFA • APARTMAN YÖNETİMİ"
-
         Me.Panel1_NAVIGATOR.ResumeLayout(False)
         Me.Panel2_ANASAYFA.ResumeLayout(False)
         Me.Panel2_ANASAYFA.PerformLayout()
