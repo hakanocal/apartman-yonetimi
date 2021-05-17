@@ -79,7 +79,6 @@ Public Class Borclandir_islem
 
         'End Try
 
-        Me.TopMost = True
     End Sub
     Private Sub BunifuCustomDataGrid12_CellMouseUp(sender As Object, e As DataGridViewCellMouseEventArgs) Handles BunifuCustomDataGrid12.CellMouseUp
         Try

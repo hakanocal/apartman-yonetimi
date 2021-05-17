@@ -176,7 +176,7 @@ Public Class DaireEkle
                 Me.ComboBox3.Items.Add(yetki)
             End If
 
-            Me.TopMost = True
+
         Catch ex As Exception
             MsgBox("Bir hatayla karşılaşıldı. (Try-Catch)", MsgBoxStyle.Critical, "Uyarı")
         End Try

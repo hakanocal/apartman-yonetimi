@@ -16,7 +16,7 @@ Public Class yoneticiekle
             'TODO: This line of code loads data into the 'ApartmanyonetimiDataSet2.yetkiler' table. You can move, or remove it, as needed.
             Me.YetkilerTableAdapter.Fill(Me.ApartmanyonetimiDataSet5.yetkiler)
 
-            Me.TopMost = True
+
         Catch ex As Exception
             MsgBox("Bir hatayla karşılaşıldı. (Try-Catch)", MsgBoxStyle.Critical, "Uyarı")
         End Try

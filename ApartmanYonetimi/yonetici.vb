@@ -156,7 +156,7 @@ Public Class yonetici
     Private Sub yonetici_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Try
             '"Yönetici ekle penceresinin  ana sayfa penceresinin altında kalması" sorunu çözüldü
-            Me.TopMost = True
+
         Catch ex As Exception
             MsgBox("Bir hatayla karşılaşıldı. (Try-Catch)", MsgBoxStyle.Critical, "Uyarı")
         End Try

@@ -43,7 +43,7 @@ Public Class personelekle
 
         'TODO: This line of code loads data into the 'ApartmanyonetimiDataSet5.binalar' table. You can move, or remove it, as needed.
         Me.BinalarTableAdapter.Fill(Me.ApartmanyonetimiDataSet51.binalar)
-        Me.TopMost = True
+
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click

@@ -2074,7 +2074,7 @@ Partial Class AnaSayfa
         Me.Name = "AnaSayfa"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "ANA SAYFA • APARTMAN YÖNETİMİ"
-        Me.TopMost = True
+
         Me.Panel1_NAVIGATOR.ResumeLayout(False)
         Me.Panel2_ANASAYFA.ResumeLayout(False)
         Me.Panel2_ANASAYFA.PerformLayout()

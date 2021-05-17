@@ -31,7 +31,7 @@ Public Class DaireGoruntule
             baglanti.Close()
         End If
 
-        Me.TopMost = True
+
 
 
     End Sub

@@ -39,6 +39,6 @@ Public Class Gelir
     End Sub
 
     Private Sub Gelir_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Me.TopMost = True
+
     End Sub
 End Class

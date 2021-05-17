@@ -19,7 +19,7 @@ Public Class YoneticiGuncelle
 
         'TODO: This line of code loads data into the 'ApartmanyonetimiDataSet2.yetkiler' table. You can move, or remove it, as needed.
         Me.YetkilerTableAdapter.Fill(Me.ApartmanyonetimiDataSet5.yetkiler)
-        Me.TopMost = True
+
         tb_ad.Text = AnaSayfa.BunifuCustomDataGrid1.Rows(rowIndex).Cells(0).Value
         tb_soyad.Text = AnaSayfa.BunifuCustomDataGrid1.Rows(rowIndex).Cells(1).Value
         tb_telefon.Text = AnaSayfa.BunifuCustomDataGrid1.Rows(rowIndex).Cells(2).Value

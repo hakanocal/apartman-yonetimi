@@ -57,39 +57,6 @@ Partial Class Makbuz
         Me.ShapeContainer1 = New Microsoft.VisualBasic.PowerPacks.ShapeContainer()
         Me.RectangleShape1 = New Microsoft.VisualBasic.PowerPacks.RectangleShape()
         Me.RectangleShape2 = New Microsoft.VisualBasic.PowerPacks.RectangleShape()
-        Me.GunaLinePanel7 = New Guna.UI.WinForms.GunaLinePanel()
-        Me.GunaLinePanel8 = New Guna.UI.WinForms.GunaLinePanel()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.Label25 = New System.Windows.Forms.Label()
-        Me.Label26 = New System.Windows.Forms.Label()
-        Me.Label27 = New System.Windows.Forms.Label()
-        Me.GunaLinePanel9 = New Guna.UI.WinForms.GunaLinePanel()
-        Me.Label28 = New System.Windows.Forms.Label()
-        Me.Label29 = New System.Windows.Forms.Label()
-        Me.Label30 = New System.Windows.Forms.Label()
-        Me.Label31 = New System.Windows.Forms.Label()
-        Me.GunaLinePanel10 = New Guna.UI.WinForms.GunaLinePanel()
-        Me.RichTextBox2 = New System.Windows.Forms.RichTextBox()
-        Me.GunaLinePanel11 = New Guna.UI.WinForms.GunaLinePanel()
-        Me.Label32 = New System.Windows.Forms.Label()
-        Me.Label33 = New System.Windows.Forms.Label()
-        Me.Label34 = New System.Windows.Forms.Label()
-        Me.Label35 = New System.Windows.Forms.Label()
-        Me.Label36 = New System.Windows.Forms.Label()
-        Me.Label37 = New System.Windows.Forms.Label()
-        Me.GunaLinePanel12 = New Guna.UI.WinForms.GunaLinePanel()
-        Me.Label38 = New System.Windows.Forms.Label()
-        Me.Label39 = New System.Windows.Forms.Label()
-        Me.Label40 = New System.Windows.Forms.Label()
-        Me.Label41 = New System.Windows.Forms.Label()
-        Me.Label42 = New System.Windows.Forms.Label()
-        Me.Label43 = New System.Windows.Forms.Label()
-        Me.Label44 = New System.Windows.Forms.Label()
-        Me.Label45 = New System.Windows.Forms.Label()
-        Me.Label46 = New System.Windows.Forms.Label()
-        Me.ShapeContainer2 = New Microsoft.VisualBasic.PowerPacks.ShapeContainer()
-        Me.RectangleShape3 = New Microsoft.VisualBasic.PowerPacks.RectangleShape()
-        Me.RectangleShape4 = New Microsoft.VisualBasic.PowerPacks.RectangleShape()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.PrintForm1 = New Microsoft.VisualBasic.PowerPacks.Printing.PrintForm(Me.components)
@@ -102,12 +69,6 @@ Partial Class Makbuz
         Me.GunaLinePanel4.SuspendLayout()
         Me.GunaLinePanel3.SuspendLayout()
         Me.GunaLinePanel2.SuspendLayout()
-        Me.GunaLinePanel7.SuspendLayout()
-        Me.GunaLinePanel8.SuspendLayout()
-        Me.GunaLinePanel9.SuspendLayout()
-        Me.GunaLinePanel10.SuspendLayout()
-        Me.GunaLinePanel11.SuspendLayout()
-        Me.GunaLinePanel12.SuspendLayout()
         Me.SuspendLayout()
         '
         'Label1
@@ -126,7 +87,7 @@ Partial Class Makbuz
         Me.Label3.Font = New System.Drawing.Font("Arial", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
         Me.Label3.Location = New System.Drawing.Point(483, 18)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(131, 32)
+        Me.Label3.Size = New System.Drawing.Size(132, 32)
         Me.Label3.TabIndex = 2
         Me.Label3.Text = "MAKBUZ"
         '
@@ -462,358 +423,6 @@ Partial Class Makbuz
         Me.RectangleShape2.Name = "RectangleShape2"
         Me.RectangleShape2.Size = New System.Drawing.Size(311, 70)
         '
-        'GunaLinePanel7
-        '
-        Me.GunaLinePanel7.Controls.Add(Me.GunaLinePanel8)
-        Me.GunaLinePanel7.Controls.Add(Me.GunaLinePanel9)
-        Me.GunaLinePanel7.Controls.Add(Me.GunaLinePanel10)
-        Me.GunaLinePanel7.Controls.Add(Me.GunaLinePanel11)
-        Me.GunaLinePanel7.Controls.Add(Me.GunaLinePanel12)
-        Me.GunaLinePanel7.Controls.Add(Me.Label39)
-        Me.GunaLinePanel7.Controls.Add(Me.Label40)
-        Me.GunaLinePanel7.Controls.Add(Me.Label41)
-        Me.GunaLinePanel7.Controls.Add(Me.Label42)
-        Me.GunaLinePanel7.Controls.Add(Me.Label43)
-        Me.GunaLinePanel7.Controls.Add(Me.Label44)
-        Me.GunaLinePanel7.Controls.Add(Me.Label45)
-        Me.GunaLinePanel7.Controls.Add(Me.Label46)
-        Me.GunaLinePanel7.Controls.Add(Me.ShapeContainer2)
-        Me.GunaLinePanel7.LineColor = System.Drawing.Color.Black
-        Me.GunaLinePanel7.LineStyle = System.Windows.Forms.BorderStyle.None
-        Me.GunaLinePanel7.Location = New System.Drawing.Point(12, 381)
-        Me.GunaLinePanel7.Name = "GunaLinePanel7"
-        Me.GunaLinePanel7.Size = New System.Drawing.Size(630, 334)
-        Me.GunaLinePanel7.TabIndex = 27
-        '
-        'GunaLinePanel8
-        '
-        Me.GunaLinePanel8.Controls.Add(Me.Label11)
-        Me.GunaLinePanel8.Controls.Add(Me.Label25)
-        Me.GunaLinePanel8.Controls.Add(Me.Label26)
-        Me.GunaLinePanel8.Controls.Add(Me.Label27)
-        Me.GunaLinePanel8.LineColor = System.Drawing.Color.Black
-        Me.GunaLinePanel8.LineStyle = System.Windows.Forms.BorderStyle.None
-        Me.GunaLinePanel8.Location = New System.Drawing.Point(313, 214)
-        Me.GunaLinePanel8.Name = "GunaLinePanel8"
-        Me.GunaLinePanel8.Size = New System.Drawing.Size(301, 105)
-        Me.GunaLinePanel8.TabIndex = 29
-        '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.Font = New System.Drawing.Font("Arial", 11.25!, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label11.Location = New System.Drawing.Point(3, 12)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(128, 17)
-        Me.Label11.TabIndex = 17
-        Me.Label11.Text = "MAKBUZU ALANIN"
-        '
-        'Label25
-        '
-        Me.Label25.AutoSize = True
-        Me.Label25.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label25.Location = New System.Drawing.Point(4, 42)
-        Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(85, 16)
-        Me.Label25.TabIndex = 18
-        Me.Label25.Text = "ADI SOYADI:"
-        '
-        'Label26
-        '
-        Me.Label26.AutoSize = True
-        Me.Label26.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label26.Location = New System.Drawing.Point(85, 42)
-        Me.Label26.Name = "Label26"
-        Me.Label26.Size = New System.Drawing.Size(144, 32)
-        Me.Label26.TabIndex = 8
-        Me.Label26.Text = "Label9_makbuzu alanın" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & " adı soyadı"
-        '
-        'Label27
-        '
-        Me.Label27.AutoSize = True
-        Me.Label27.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label27.Location = New System.Drawing.Point(4, 70)
-        Me.Label27.Name = "Label27"
-        Me.Label27.Size = New System.Drawing.Size(42, 16)
-        Me.Label27.TabIndex = 19
-        Me.Label27.Text = "İMZA:"
-        '
-        'GunaLinePanel9
-        '
-        Me.GunaLinePanel9.Controls.Add(Me.Label28)
-        Me.GunaLinePanel9.Controls.Add(Me.Label29)
-        Me.GunaLinePanel9.Controls.Add(Me.Label30)
-        Me.GunaLinePanel9.Controls.Add(Me.Label31)
-        Me.GunaLinePanel9.LineColor = System.Drawing.Color.Black
-        Me.GunaLinePanel9.LineStyle = System.Windows.Forms.BorderStyle.None
-        Me.GunaLinePanel9.Location = New System.Drawing.Point(14, 214)
-        Me.GunaLinePanel9.Name = "GunaLinePanel9"
-        Me.GunaLinePanel9.Size = New System.Drawing.Size(293, 105)
-        Me.GunaLinePanel9.TabIndex = 28
-        '
-        'Label28
-        '
-        Me.Label28.AutoSize = True
-        Me.Label28.Font = New System.Drawing.Font("Arial", 11.25!, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label28.Location = New System.Drawing.Point(6, 12)
-        Me.Label28.Name = "Label28"
-        Me.Label28.Size = New System.Drawing.Size(143, 17)
-        Me.Label28.TabIndex = 13
-        Me.Label28.Text = "MAKBUZU KESENİN"
-        '
-        'Label29
-        '
-        Me.Label29.AutoSize = True
-        Me.Label29.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label29.Location = New System.Drawing.Point(6, 42)
-        Me.Label29.Name = "Label29"
-        Me.Label29.Size = New System.Drawing.Size(85, 16)
-        Me.Label29.TabIndex = 14
-        Me.Label29.Text = "ADI SOYADI:"
-        '
-        'Label30
-        '
-        Me.Label30.AutoSize = True
-        Me.Label30.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label30.Location = New System.Drawing.Point(6, 70)
-        Me.Label30.Name = "Label30"
-        Me.Label30.Size = New System.Drawing.Size(42, 16)
-        Me.Label30.TabIndex = 15
-        Me.Label30.Text = "İMZA:"
-        '
-        'Label31
-        '
-        Me.Label31.AutoSize = True
-        Me.Label31.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label31.Location = New System.Drawing.Point(89, 42)
-        Me.Label31.Name = "Label31"
-        Me.Label31.Size = New System.Drawing.Size(198, 16)
-        Me.Label31.TabIndex = 7
-        Me.Label31.Text = "Label8_makbuzu kesen adsoyad"
-        '
-        'GunaLinePanel10
-        '
-        Me.GunaLinePanel10.Controls.Add(Me.RichTextBox2)
-        Me.GunaLinePanel10.LineColor = System.Drawing.Color.Black
-        Me.GunaLinePanel10.LineStyle = System.Windows.Forms.BorderStyle.None
-        Me.GunaLinePanel10.Location = New System.Drawing.Point(14, 40)
-        Me.GunaLinePanel10.Name = "GunaLinePanel10"
-        Me.GunaLinePanel10.Size = New System.Drawing.Size(312, 33)
-        Me.GunaLinePanel10.TabIndex = 28
-        '
-        'RichTextBox2
-        '
-        Me.RichTextBox2.BackColor = System.Drawing.Color.White
-        Me.RichTextBox2.BorderStyle = System.Windows.Forms.BorderStyle.None
-        Me.RichTextBox2.Enabled = False
-        Me.RichTextBox2.Location = New System.Drawing.Point(3, 1)
-        Me.RichTextBox2.Name = "RichTextBox2"
-        Me.RichTextBox2.ReadOnly = True
-        Me.RichTextBox2.Size = New System.Drawing.Size(304, 30)
-        Me.RichTextBox2.TabIndex = 29
-        Me.RichTextBox2.Text = ""
-        '
-        'GunaLinePanel11
-        '
-        Me.GunaLinePanel11.Controls.Add(Me.Label32)
-        Me.GunaLinePanel11.Controls.Add(Me.Label33)
-        Me.GunaLinePanel11.Controls.Add(Me.Label34)
-        Me.GunaLinePanel11.Controls.Add(Me.Label35)
-        Me.GunaLinePanel11.Controls.Add(Me.Label36)
-        Me.GunaLinePanel11.Controls.Add(Me.Label37)
-        Me.GunaLinePanel11.LineColor = System.Drawing.Color.Black
-        Me.GunaLinePanel11.LineStyle = System.Windows.Forms.BorderStyle.None
-        Me.GunaLinePanel11.Location = New System.Drawing.Point(412, 53)
-        Me.GunaLinePanel11.Name = "GunaLinePanel11"
-        Me.GunaLinePanel11.Size = New System.Drawing.Size(202, 94)
-        Me.GunaLinePanel11.TabIndex = 28
-        '
-        'Label32
-        '
-        Me.Label32.AutoSize = True
-        Me.Label32.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label32.Location = New System.Drawing.Point(118, 12)
-        Me.Label32.Name = "Label32"
-        Me.Label32.RightToLeft = System.Windows.Forms.RightToLeft.No
-        Me.Label32.Size = New System.Drawing.Size(40, 16)
-        Me.Label32.TabIndex = 3
-        Me.Label32.Text = "4_M_"
-        '
-        'Label33
-        '
-        Me.Label33.AutoSize = True
-        Me.Label33.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label33.Location = New System.Drawing.Point(118, 73)
-        Me.Label33.Name = "Label33"
-        Me.Label33.Size = New System.Drawing.Size(51, 16)
-        Me.Label33.TabIndex = 6
-        Me.Label33.Text = "7_DNM"
-        '
-        'Label34
-        '
-        Me.Label34.AutoSize = True
-        Me.Label34.Location = New System.Drawing.Point(74, 73)
-        Me.Label34.Name = "Label34"
-        Me.Label34.Size = New System.Drawing.Size(44, 13)
-        Me.Label34.TabIndex = 25
-        Me.Label34.Text = "Dönem:"
-        Me.Label34.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'Label35
-        '
-        Me.Label35.AutoSize = True
-        Me.Label35.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label35.Location = New System.Drawing.Point(118, 42)
-        Me.Label35.Name = "Label35"
-        Me.Label35.Size = New System.Drawing.Size(47, 16)
-        Me.Label35.TabIndex = 4
-        Me.Label35.Text = "5_TRH"
-        '
-        'Label36
-        '
-        Me.Label36.AutoSize = True
-        Me.Label36.Location = New System.Drawing.Point(53, 13)
-        Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(65, 13)
-        Me.Label36.TabIndex = 23
-        Me.Label36.Text = "Makbuz No:"
-        Me.Label36.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'Label37
-        '
-        Me.Label37.AutoSize = True
-        Me.Label37.Location = New System.Drawing.Point(84, 43)
-        Me.Label37.Name = "Label37"
-        Me.Label37.Size = New System.Drawing.Size(34, 13)
-        Me.Label37.TabIndex = 24
-        Me.Label37.Text = "Tarih:"
-        Me.Label37.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'GunaLinePanel12
-        '
-        Me.GunaLinePanel12.Controls.Add(Me.Label38)
-        Me.GunaLinePanel12.LineColor = System.Drawing.Color.Black
-        Me.GunaLinePanel12.LineStyle = System.Windows.Forms.BorderStyle.None
-        Me.GunaLinePanel12.Location = New System.Drawing.Point(14, 165)
-        Me.GunaLinePanel12.Name = "GunaLinePanel12"
-        Me.GunaLinePanel12.Size = New System.Drawing.Size(600, 43)
-        Me.GunaLinePanel12.TabIndex = 27
-        '
-        'Label38
-        '
-        Me.Label38.AutoSize = True
-        Me.Label38.Font = New System.Drawing.Font("Arial", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label38.Location = New System.Drawing.Point(6, 11)
-        Me.Label38.Name = "Label38"
-        Me.Label38.Size = New System.Drawing.Size(63, 18)
-        Me.Label38.TabIndex = 28
-        Me.Label38.Text = "Label38"
-        '
-        'Label39
-        '
-        Me.Label39.AutoSize = True
-        Me.Label39.Font = New System.Drawing.Font("Arial", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label39.Location = New System.Drawing.Point(10, 18)
-        Me.Label39.Name = "Label39"
-        Me.Label39.Size = New System.Drawing.Size(123, 19)
-        Me.Label39.TabIndex = 0
-        Me.Label39.Text = "Label1_site adı"
-        '
-        'Label40
-        '
-        Me.Label40.AutoSize = True
-        Me.Label40.Font = New System.Drawing.Font("Arial", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label40.Location = New System.Drawing.Point(483, 18)
-        Me.Label40.Name = "Label40"
-        Me.Label40.Size = New System.Drawing.Size(131, 32)
-        Me.Label40.TabIndex = 2
-        Me.Label40.Text = "MAKBUZ"
-        '
-        'Label41
-        '
-        Me.Label41.AutoSize = True
-        Me.Label41.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label41.Location = New System.Drawing.Point(212, 95)
-        Me.Label41.Name = "Label41"
-        Me.Label41.Size = New System.Drawing.Size(23, 13)
-        Me.Label41.TabIndex = 22
-        Me.Label41.Text = "NO"
-        '
-        'Label42
-        '
-        Me.Label42.AutoSize = True
-        Me.Label42.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label42.Location = New System.Drawing.Point(212, 114)
-        Me.Label42.Name = "Label42"
-        Me.Label42.Size = New System.Drawing.Size(109, 16)
-        Me.Label42.TabIndex = 5
-        Me.Label42.Text = "Label6_nolu daire"
-        '
-        'Label43
-        '
-        Me.Label43.AutoSize = True
-        Me.Label43.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label43.Location = New System.Drawing.Point(123, 95)
-        Me.Label43.Name = "Label43"
-        Me.Label43.Size = New System.Drawing.Size(28, 13)
-        Me.Label43.TabIndex = 21
-        Me.Label43.Text = "KAT"
-        '
-        'Label44
-        '
-        Me.Label44.AutoSize = True
-        Me.Label44.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label44.Location = New System.Drawing.Point(19, 95)
-        Me.Label44.Name = "Label44"
-        Me.Label44.Size = New System.Drawing.Size(35, 13)
-        Me.Label44.TabIndex = 20
-        Me.Label44.Text = "BLOK"
-        '
-        'Label45
-        '
-        Me.Label45.AutoSize = True
-        Me.Label45.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label45.Location = New System.Drawing.Point(19, 114)
-        Me.Label45.Name = "Label45"
-        Me.Label45.Size = New System.Drawing.Size(73, 16)
-        Me.Label45.TabIndex = 10
-        Me.Label45.Text = "label2_bnai"
-        '
-        'Label46
-        '
-        Me.Label46.AutoSize = True
-        Me.Label46.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(162, Byte))
-        Me.Label46.Location = New System.Drawing.Point(123, 114)
-        Me.Label46.Name = "Label46"
-        Me.Label46.Size = New System.Drawing.Size(78, 16)
-        Me.Label46.TabIndex = 12
-        Me.Label46.Text = "Label12_kat"
-        '
-        'ShapeContainer2
-        '
-        Me.ShapeContainer2.Location = New System.Drawing.Point(0, 0)
-        Me.ShapeContainer2.Margin = New System.Windows.Forms.Padding(0)
-        Me.ShapeContainer2.Name = "ShapeContainer2"
-        Me.ShapeContainer2.Shapes.AddRange(New Microsoft.VisualBasic.PowerPacks.Shape() {Me.RectangleShape3, Me.RectangleShape4})
-        Me.ShapeContainer2.Size = New System.Drawing.Size(630, 334)
-        Me.ShapeContainer2.TabIndex = 26
-        Me.ShapeContainer2.TabStop = False
-        '
-        'RectangleShape3
-        '
-        Me.RectangleShape3.BorderColor = System.Drawing.Color.Black
-        Me.RectangleShape3.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dash
-        Me.RectangleShape3.Location = New System.Drawing.Point(8, 9)
-        Me.RectangleShape3.Name = "RectangleShape1"
-        Me.RectangleShape3.Size = New System.Drawing.Size(614, 317)
-        '
-        'RectangleShape4
-        '
-        Me.RectangleShape4.BorderColor = System.Drawing.SystemColors.AppWorkspace
-        Me.RectangleShape4.Location = New System.Drawing.Point(14, 76)
-        Me.RectangleShape4.Name = "RectangleShape2"
-        Me.RectangleShape4.Size = New System.Drawing.Size(311, 70)
-        '
         'Button1
         '
         Me.Button1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(0, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(0, Byte), Integer))
@@ -864,10 +473,9 @@ Partial Class Makbuz
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
-        Me.ClientSize = New System.Drawing.Size(655, 721)
+        Me.ClientSize = New System.Drawing.Size(655, 381)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
-        Me.Controls.Add(Me.GunaLinePanel7)
         Me.Controls.Add(Me.GunaLinePanel1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "Makbuz"
@@ -884,17 +492,6 @@ Partial Class Makbuz
         Me.GunaLinePanel3.PerformLayout()
         Me.GunaLinePanel2.ResumeLayout(False)
         Me.GunaLinePanel2.PerformLayout()
-        Me.GunaLinePanel7.ResumeLayout(False)
-        Me.GunaLinePanel7.PerformLayout()
-        Me.GunaLinePanel8.ResumeLayout(False)
-        Me.GunaLinePanel8.PerformLayout()
-        Me.GunaLinePanel9.ResumeLayout(False)
-        Me.GunaLinePanel9.PerformLayout()
-        Me.GunaLinePanel10.ResumeLayout(False)
-        Me.GunaLinePanel11.ResumeLayout(False)
-        Me.GunaLinePanel11.PerformLayout()
-        Me.GunaLinePanel12.ResumeLayout(False)
-        Me.GunaLinePanel12.PerformLayout()
         Me.ResumeLayout(False)
 
     End Sub
@@ -931,39 +528,6 @@ Partial Class Makbuz
     Friend WithEvents GunaLinePanel6 As Guna.UI.WinForms.GunaLinePanel
     Friend WithEvents GunaLinePanel5 As Guna.UI.WinForms.GunaLinePanel
     Friend WithEvents Label10 As System.Windows.Forms.Label
-    Friend WithEvents GunaLinePanel7 As Guna.UI.WinForms.GunaLinePanel
-    Friend WithEvents GunaLinePanel8 As Guna.UI.WinForms.GunaLinePanel
-    Friend WithEvents Label11 As System.Windows.Forms.Label
-    Friend WithEvents Label25 As System.Windows.Forms.Label
-    Friend WithEvents Label26 As System.Windows.Forms.Label
-    Friend WithEvents Label27 As System.Windows.Forms.Label
-    Friend WithEvents GunaLinePanel9 As Guna.UI.WinForms.GunaLinePanel
-    Friend WithEvents Label28 As System.Windows.Forms.Label
-    Friend WithEvents Label29 As System.Windows.Forms.Label
-    Friend WithEvents Label30 As System.Windows.Forms.Label
-    Friend WithEvents Label31 As System.Windows.Forms.Label
-    Friend WithEvents GunaLinePanel10 As Guna.UI.WinForms.GunaLinePanel
-    Friend WithEvents RichTextBox2 As System.Windows.Forms.RichTextBox
-    Friend WithEvents GunaLinePanel11 As Guna.UI.WinForms.GunaLinePanel
-    Friend WithEvents Label32 As System.Windows.Forms.Label
-    Friend WithEvents Label33 As System.Windows.Forms.Label
-    Friend WithEvents Label34 As System.Windows.Forms.Label
-    Friend WithEvents Label35 As System.Windows.Forms.Label
-    Friend WithEvents Label36 As System.Windows.Forms.Label
-    Friend WithEvents Label37 As System.Windows.Forms.Label
-    Friend WithEvents GunaLinePanel12 As Guna.UI.WinForms.GunaLinePanel
-    Friend WithEvents Label38 As System.Windows.Forms.Label
-    Friend WithEvents Label39 As System.Windows.Forms.Label
-    Friend WithEvents Label40 As System.Windows.Forms.Label
-    Friend WithEvents Label41 As System.Windows.Forms.Label
-    Friend WithEvents Label42 As System.Windows.Forms.Label
-    Friend WithEvents Label43 As System.Windows.Forms.Label
-    Friend WithEvents Label44 As System.Windows.Forms.Label
-    Friend WithEvents Label45 As System.Windows.Forms.Label
-    Friend WithEvents Label46 As System.Windows.Forms.Label
-    Friend WithEvents ShapeContainer2 As Microsoft.VisualBasic.PowerPacks.ShapeContainer
-    Friend WithEvents RectangleShape3 As Microsoft.VisualBasic.PowerPacks.RectangleShape
-    Friend WithEvents RectangleShape4 As Microsoft.VisualBasic.PowerPacks.RectangleShape
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents PrintForm1 As Microsoft.VisualBasic.PowerPacks.Printing.PrintForm

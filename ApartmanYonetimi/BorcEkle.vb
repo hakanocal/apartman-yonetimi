@@ -16,7 +16,6 @@ Public Class BorcEkle
 
 
 
-        Me.TopMost = True
     End Sub
 
 

@@ -11,7 +11,7 @@ Public Class OdemeYap
     Private Sub OdemeYap_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         TextBox1.Text = Borclandir_islem.BunifuCustomDataGrid12.Rows(rowIndex2).Cells(5).Value
         RichTextBox1.Text = Borclandir_islem.BunifuCustomDataGrid12.Rows(rowIndex2).Cells(2).Value
-        Me.TopMost = True
+
         bakiyehesapla()
 
 

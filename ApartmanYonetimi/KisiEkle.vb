@@ -10,7 +10,7 @@ Public Class KisiEkle
 
     Private Sub KisiEkle_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Try
-            Me.TopMost = True
+
         Catch ex As Exception
             MsgBox("Bir hatayla karşılaşıldı. (Try-Catch)", MsgBoxStyle.Critical, "Uyarı")
         End Try

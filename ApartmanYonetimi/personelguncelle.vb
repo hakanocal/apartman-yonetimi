@@ -6,7 +6,7 @@ Public Class personelguncelle
     Private Sub personelguncelle_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'TODO: This line of code loads data into the 'ApartmanyonetimiDataSet5.binalar' table. You can move, or remove it, as needed.
         Me.BinalarTableAdapter.Fill(Me.ApartmanyonetimiDataSet5.binalar)
-        Me.TopMost = True
+
         Dim komut1 As New OleDbCommand("select * from personel where adsoyad= '" & AnaSayfa.BunifuCustomDataGrid6.Rows(AnaSayfa.rowIndex).Cells(0).Value & "'", baglanti)
         Dim veriokuyucu As OleDbDataReader
         baglanti.Open()

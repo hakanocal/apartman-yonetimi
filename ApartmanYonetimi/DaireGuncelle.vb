@@ -418,7 +418,7 @@ Public Class DaireGuncelle
                 baglanti.Close()
             End If
 
-            Me.TopMost = True
+
 
 
             yetki = AnaSayfa.yetki
