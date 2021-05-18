@@ -20,36 +20,36 @@ Boş veritabanıyla sıfırdan başlamak için "database/script.sql" çalıştı
 | :-------------: |
 | <img src="/images/1giris.jpg">      | 
 
-|  Anasayfa (Giriş yapan yönetici, yetkisi, site bilgileri)             |   
+|  Anasayfa (Yönetici ve site bilgileri)             |   
 |:-------------:|
 | <img src="/images/2anasayfa.jpg">      |
  
 
-| KASA (Gider ve gelir ekleme, kasa bakiyesini görüntüleme)     |  
+| KASA  (Gider-gelir ekleme, kasa bakiyesi)     |  
 | :-------------: |
 | <img src="/images/3kasa.jpg">     |
 
-|  BİNALAR VE DAİRELER (Bina ve dairelerin yönetimi, taşınma işlemleri, bina ve daire  ekleme, güncelleme, silme işlemleri) &nbsp; &nbsp; &nbsp; &nbsp;         |   
+|  BİNALAR VE DAİRELER (Taşınma, bina ve daire  ekleme, güncelleme, silme işlemleri)        |   
 |:-------------:|
 |<img src="/images/4binalar-ve-daireler.gif">      |
 
 
-| BORÇLANDIR (Aidat, kira gibi borçlandırmalar, borç takibi, ödeme alma ve makbuz kesme işlemleri)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |  
+| BORÇLANDIR (Aidat, kira gibi borçlandırmalar, borç takibi, ödeme alma ve makbuz kesme işlemleri)      |  
 | :-------------: |
 |<img src="/images/5borclandir.gif">     |
 
-|  PERSONEL BİLGİSİ (Güvenlik görevlisi, temizlikçi, bahçıvan gibi personel bilgilerinin saklanması)             |   
+|  PERSONEL BİLGİSİ (Güvenlik görevlisi, temizlikçi, bahçıvan gibi personel bilgilerinin saklanması)               |   
 |:-------------:|
 | <img src="/images/6personel.jpg">      |
 
 
 
-| ARŞİV (Bir problemle karşılaşıldığında geçmişe yönelik yönetici, personel, daire ikamet bilgilerine ulaşılabilmesi) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;    | 
+| ARŞİV (Geçmişe yönelik yönetici, personel, daire bilgilerine ulaşılabilmesi)   | 
 | :-------------: |
 |<img src="/images/7arsiv.gif">      |
 
 
-|  YÖNETİCİLER (Her yöneticinin sadece yetkilisi olduğu daireleri yönetebilmesi(borçlandırma/daire ekleme,silme,güncelleme gibi). Tam yetkili bir yönetici tüm siteyi ve tüm daireleri yönetebilir ve yönetici ekleme, silme, güncelleme işlemler yapılabilir)             |   
+|  YÖNETİCİLER (Yöneticiler sadece yetkisi olduğu daireleri yönetebilir. Tam yetkili bir yönetici ise tüm siteyi ve tüm daireleri yönetebilir)         |   
 |:-------------:|
 | <img src="/images/8yonetici.jpg">     |
 
