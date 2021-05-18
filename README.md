@@ -51,7 +51,7 @@ Boş veritabanıyla sıfırdan başlamak için "database/script.sql" çalıştı
 |<img src="/images/7arsiv.gif">      |
 
 
-|  YÖNETİCİLER (Yöneticiler sadece yetkisi olduğu daireleri yönetebilir. Tam yetkili bir yönetici ise tüm siteyi ve tüm daireleri yönetebilir)         |   
+|  YÖNETİCİLER (Yöneticiler sadece yetkilisi oldukları daireleri yönetebilir. Tam yetkili bir yönetici ise tüm siteyi ve tüm daireleri yönetebilir)         |   
 |:-------------:|
 | <img src="/images/8yonetici.jpg">     |
 
