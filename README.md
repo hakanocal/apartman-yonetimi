@@ -1,16 +1,15 @@
 # Apartman Site Yönetim Programı
 ### Apartmanların, dairelerin, yöneticilerin, borçların ve personellerin basit bir masaüstü programı ile yönetimi
 
+Visual Basic .NET, MsSQL 2012 ve Visual Studio 2012 kullanılarak hazırlandı
 
-#### Notlar:
-- Visual Basic .NET, MsSQL 2012 ve Visual Studio 2012 kullanılarak hazırlandı
-- Örnek verilerin olduğu veritabanıyla programı kullanmak için "database/apartmanyonetimi.bak" yedeği geriyüklenmeli
-Boş veritabanıyla sıfırdan başlamak için "database/script.sql" çalıştırmalı
-- Websitesini bilgisayarınızda sorunsuz bir şekilde çalıştırabilmek için:\
+#### Programı sorunsuz bir şekilde çalıştırabilmek için:
 · MsSQL ile script.sql çalıştırılarak Apartman yönetimi veritabanını yüklenmeli\
 · ApartmanYonetimi\ApartmanYonetimi\acilis.vb dosyasının en üst kısmında yer alan Public src As String = "..." satırına veritabanı server name'i yazılır\
 · ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe çalıştırılarak program başlatılabilir
-- Veritabanı tablolarında değişiklik yapıldığında formların kullandığı dataset'i güncellemek için:\
+
+#### Kendime Not:
+Veritabanı tablolarında değişiklik yapıldığında formların kullandığı dataset'i güncellemek için:\
 · Project/Other Windows/Data Sources \
 · DataSet İsmine sağ tıklayıp "Configurate Data Source With wizard" tıklanır	\
 · Tables tablosundan yeni eklenen tabloların tikleri pasif durumda geliyor, pasif durumda olan tablolar aktif edilir ve "Finish" tıklanır\
