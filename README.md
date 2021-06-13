@@ -1,7 +1,7 @@
 # Apartman Site Yönetim Programı
 ### Apartmanların, dairelerin, yöneticilerin, borçların ve personellerin basit bir masaüstü programı ile yönetimi
 
-Visual Basic .NET, MsSQL 2012 ve Visual Studio 2012 kullanılarak hazırlandı
+Visual Basic .NET ve MsSQL(2012) kullanılarak hazırlandı
 
 #### Programı sorunsuz bir şekilde çalıştırabilmek için:
 · MsSQL ile script.sql çalıştırılarak Apartman yönetimi veritabanını yüklenmeli\
