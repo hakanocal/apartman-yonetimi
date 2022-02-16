@@ -8,6 +8,8 @@ Visual Basic .NET ve MsSQL(2012) kullanılarak hazırlandı
 · ApartmanYonetimi\ApartmanYonetimi\acilis.vb dosyasının en üst kısmında yer alan Public src As String = "..." satırına veritabanı server name'i yazılır\
 · ApartmanYonetimi\ApartmanYonetimi\bin\Debug\ApartmanYonetimi.exe çalıştırılarak program başlatılabilir
 
+· Microsoft.VisualBasic.PowerPacks Hatasını gidermek için: Right-click your project and click Add/Reference/Search Microsoft.VisualBasic.Powerpack
+
 #### Kendime Not:
 Veritabanı tablolarında değişiklik yapıldığında formların kullandığı dataset'i güncellemek için:\
 · Project/Other Windows/Data Sources \
